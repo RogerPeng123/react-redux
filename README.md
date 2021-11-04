@@ -1,12 +1,10 @@
-# Getting Started with Create React App
+# 在React项目中使用redux
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+主要实现在react项目中hooks使用redux
 
-## Available Scripts
+## 下载项目
 
-In the project directory, you can run:
-
-### `yarn start`
+### `git clone https://github.com/RogerPeng123/react-redux.git`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
