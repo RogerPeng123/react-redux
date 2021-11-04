@@ -4,15 +4,19 @@
 
 ### 下载项目
 
-````
+```
 git clone https://github.com/RogerPeng123/react-redux.git
-````
+```
 
 ### 进入项目,安装依赖包
-`yarn`
+```
+yarn
+```
 
 ### 执行项目
-`yarn run start`
+```
+yarn run start
+```
 
 ## Learn More
 
