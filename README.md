@@ -4,9 +4,9 @@
 
 ### 下载项目
 
-```
+``
 git clone https://github.com/RogerPeng123/react-redux.git
-```
+``
 
 ### 进入项目,安装依赖包
 `yarn`
